@@ -1,2 +1,2 @@
 # some_practice
-promises/async.await/api/fetch
+call backs/promises/async.await/
